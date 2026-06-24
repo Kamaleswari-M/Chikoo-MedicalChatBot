@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+
+<meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Chikoo Medical AI</title>
+
+<link rel="stylesheet"
+      href="style.css">
+
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+</head>
+
+<body>
+
+<div class="app">
+
+
+<!-- Sidebar -->
+
+<div class="sidebar">
+
+    <div class="profile">
+
+        <img src="images/chikoo.jpg"
+             class="dog-avatar">
+
+        <h2>Chikoo</h2>
+
+        <p>
+            <span class="green-dot"></span>
+            Online
+        </p>
+
+    </div>
+
+    <div class="action-buttons">
+
+        <button class="new-chat"
+                onclick="newChat()">
+
+            <i class="fa-solid fa-comments"></i>
+            New Chat
+
+        </button>
+
+        <button class="icon-btn"
+                onclick="startVoice()">
+
+            🎤
+
+        </button>
+
+        <button class="icon-btn"
+                onclick="toggleTheme()">
+
+            🌙
+
+        </button>
+
+    </div>
+
+  
+
+    <div class="notice">
+
+        This AI provides health information only.
+        Consult a doctor for diagnosis.
+
+    </div>
+
+</div>
+
+<!-- Chat Area -->
+
+<div class="chat-area">
+
+    <div class="header">
+
+         Chat with Chikoo 🐶
+
+    </div>
+
+    <div id="chatbox">
+
+        <div class="bot-message">
+
+            <b>🐶 Chikoo</b><br><br>
+
+            Hi! I'm Chikoo.
+            Tell me your symptoms and I'll help
+            with general health information.
+
+        </div>
+
+    </div>
+
+    <div class="input-area">
+
+        <input
+            type="text"
+            id="userInput"
+            placeholder="Describe your symptoms...">
+
+        <button onclick="sendMessage()">
+
+            <i class="fa-solid fa-paper-plane"></i>
+
+        </button>
+
+    </div>
+
+</div>
+
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
