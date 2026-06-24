@@ -65,9 +65,13 @@ Select Open with Live Server
 
 The application will open automatically in your browser.
 
-<img width="1536" height="776" alt="Screenshot 2026-06-18 004442" src="https://github.com/user-attachments/assets/1f80d1eb-c45c-4d10-b535-b632eab6cdad" />
-<img width="1536" height="767" alt="Screenshot 2026-06-18 001835" src="https://github.com/user-attachments/assets/17b68b53-abea-4f82-ad30-eec3e9014f15" />
-<img width="1527" height="731" alt="Screenshot 2026-06-18 010253" src="https://github.com/user-attachments/assets/5cca030f-0bd7-4e7b-8ed2-6292001acdd3" />
-<img width="1531" height="732" alt="Screenshot 2026-06-18 010216" src="https://github.com/user-attachments/assets/8f599c38-35c3-4ef3-b89d-c60246465e4d" />
+<img width="1536" height="767" alt="Screenshot 2026-06-18 001835" src="https://github.com/user-attachments/assets/4901d521-c611-473a-ae98-6e0b2cf38c54" />
+<img width="1536" height="776" alt="Screenshot 2026-06-18 004442" src="https://github.com/user-attachments/assets/f97319fa-0aec-4922-98b2-19bf1590be80" />
+<img width="1531" height="732" alt="Screenshot 2026-06-18 010216" src="https://github.com/user-attachments/assets/e5b8a05a-9cad-4e71-97aa-b268ee6a4ef3" />
+<img width="1527" height="731" alt="Screenshot 2026-06-18 010253" src="https://github.com/user-attachments/assets/3d3eea2d-b707-49c9-93b0-c97c12a2f15a" />
+
+
+
+
 
 
