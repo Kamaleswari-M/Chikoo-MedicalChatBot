@@ -24,9 +24,9 @@ Chikoo aims to make healthcare information more accessible through an engaging A
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Kamaleswari-M/Chikoo-AI-Medical-Assistant.git
+git clone https://github.com/Kamaleswari-M/Chikoo-MedicalChatBot.git
 
-cd Chikoo-AI-Medical-Assistant
+cd MedicalChatBot
 ```
 
 2. Install dependencies
