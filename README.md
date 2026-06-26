@@ -8,16 +8,16 @@ Chikoo aims to make healthcare information more accessible through an engaging A
 
 ## Technology Stack
 
-HTML5
-CSS3
-JavaScript
-Node.js
-Express.js
-Groq API
-Llama 3.3 70B Versatile
-Web Speech API
-Local Storage API
-Font Awesome
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express.js
+- Groq API
+- Llama 3.3 70B Versatile
+- Web Speech API
+- Local Storage API
+- Font Awesome
 
 ## Installation
 
