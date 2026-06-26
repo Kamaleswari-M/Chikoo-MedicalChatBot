@@ -1,4 +1,5 @@
 ## Chikoo-MedicalChatBot
+
 Chikoo is an AI-powered medical assistant chatbot designed to provide general health information and symptom guidance through a user-friendly conversational
 interface. The chatbot leverages Large Language Models (LLMs) to answer health-related queries, offer wellness tips, and provide educational information while 
 encouraging users to seek professional medical advice when necessary.
